@@ -13,7 +13,7 @@ My main areas of expertise:
 ### 💼 Professional Summary
 - 🔭 I’m currently working on **Helping customer to implement Full Stack Observability**
 - 🌱 I’m currently learning **Splunk Agent Observability & Agentic AI**
-- 💬 Talk to me about **Observability, OpenTelemetry, Kubernetes, Devops, System Desig**
+- 💬 Talk to me about **Observability, OpenTelemetry, Kubernetes, Devops, System Design**
 
 ---
 ### 🛠️ Skills & Technologies (From LinkedIn "Skills")
