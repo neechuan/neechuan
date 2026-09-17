@@ -16,7 +16,7 @@ My main areas of expertise:
 - 💬 Talk to me about **Observability, OpenTelemetry, Kubernetes, Devops, System Design**
 
 ---
-### 🛠️ Skills & Technologies (From LinkedIn "Skills")
+### 🛠️ Skills & Technologies
 
 **Languages & Core Tech:**
 `Full Stack Observability` `Monitors, evaluates, and secures autonomous AI agents and large language models (LLMs) in production` `Java` `Oracle`
