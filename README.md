@@ -5,10 +5,10 @@ I am a passionate technologist with customer focus, with experience across a ran
 I am currently a Observability Architect at Splunk, supporting customers through out APAC, based out of Singapore.
 
 My main areas of expertise:
-- **Full-stack Observability (Kubernetes and Container Monitoring, Database Visibility, Infrastructure Visibility, Browser Real User Monitoring, Mobile Real User Monitoring, Synthetic Monitoring, Application Analytics, Splunk, Splunk Observability Cloud and AppDynamics)**.
+- **Full-stack Observability (Kubernetes and Container Monitoring, AI Agent Observability, OpenTelemetry, Application Performance Monitoring, Database Visibility, Infrastructure Visibility, Browser Real User Monitoring, Mobile Real User Monitoring, Synthetic Monitoring, Application Analytics, Splunk, Splunk Observability Cloud and AppDynamics)**.
 - **DevOps Toolings such as Kubernetes, Docker, Jenkins, Ansible, Puppet, etc**.
 - **Cloud Transformation, Cloud Security, Cloud Architecture, Infrastructure as Code**. I love building impactful solutions and continuously learning new technologies.
-
+- 
 ---
 ### 💼 Professional Summary
 - 🔭 I’m currently working on **Helping customer to implement Full Stack Observability**
